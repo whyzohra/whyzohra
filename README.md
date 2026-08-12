@@ -25,3 +25,46 @@
 <img src="https://komarev.com/ghpvc/?username=whyzohra&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<br>
+
+<div align="center">
+
+### 🖥️ SYSTEM INITIALIZATION
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│  zohra@github:~$ ./initialize_profile.sh     │
+│                                              │
+│  [████████████████████] 100%                 │
+│                                              │
+│  ✓ Loading developer...                      │
+│  ✓ Loading distributed systems...            │
+│  ✓ Loading cloud infrastructure...           │
+│  ✓ Loading ML systems...                     │
+│  ✓ Loading caffeine...                       │
+│                                              │
+│  ──────────────────────────────────────────  │
+│                                              │
+│  🟢 SYSTEM STATUS: ONLINE                    │
+│                                              │
+│  ☁ AWS             CONNECTED                 │
+│  ☸ Kubernetes      EXPLORING                 │
+│  🐳 Docker         RUNNING                   │
+│  🐍 Python         ACTIVE                    │
+│  ☕ Java           ACTIVE                    │
+│  🧠 ML Systems     BUILDING                  │
+│                                              │
+│  UPTIME: ∞                                   │
+│  COFFEE: ████████████████████ 100%           │
+│                                              │
+│  zohra@github:~$ _                           │
+│                                              │
+╰──────────────────────────────────────────────╯
+
+
