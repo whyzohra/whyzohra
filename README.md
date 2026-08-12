@@ -95,3 +95,14 @@
 │                              │
 └──────────────────────────────┘
 ```
+<br>
+
+<div align="center">
+
+# 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/whyzohra/whyzohra/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+<br>
