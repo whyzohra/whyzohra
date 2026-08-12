@@ -66,5 +66,32 @@
 │  zohra@github:~$ _                           │
 │                                              │
 ╰──────────────────────────────────────────────╯
+```
 
+<br>
 
+<div align="center">
+# ⚡ CURRENTLY BUILDING
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 IN MY HEAD
+
+```text
+┌──────────────────────────────┐
+│                              │
+│  > Distributed Systems       │
+│  > Cloud Infrastructure      │
+│  > Reliability Engineering   │
+│  > ML Systems                │
+│  > Open Source               │
+│                              │
+│  STATUS: LEARNING...         │
+│                              │
+└──────────────────────────────┘
+```
