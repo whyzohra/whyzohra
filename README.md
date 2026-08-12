@@ -166,3 +166,69 @@
 </div>
 
 <br>
+<br>
+
+<h2 align="center">🛠️ TECH STACK</h2>
+
+<br>
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" />
+</p>
+
+<br>
+
+<h3 align="center">☁️ Cloud & Infrastructure</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,terraform,jenkins" />
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Backend & Systems</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx,redis,mongodb,postgres" />
+</p>
+
+<br>
+
+<h3 align="center">🧠 Data, ML & Observability</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,grafana,prometheus" />
+</p>
+
+<br>
+
+<h3 align="center">🔧 Developer Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+<br>
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│  STACK STATUS                                          │
+│                                                        │
+│  Python          ████████████████████  ACTIVE         │
+│  Java            ████████████████████  ACTIVE         │
+│  AWS             ████████████████████  PRODUCTION     │
+│  Kubernetes      ███████████████░░░░░  EXPLORING      │
+│  Docker          ████████████████████  ACTIVE         │
+│  ML Systems      ███████████████░░░░░  BUILDING       │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br>
