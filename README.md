@@ -71,20 +71,18 @@
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
+</div>
+<br>
+
+<h2 align="center">⚡ CURRENTLY BUILDING</h2>
 
 <br>
 
-<div align="center">
-# ⚡ CURRENTLY BUILDING
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🧠 IN MY HEAD
+<h3>🧠 IN MY HEAD</h3>
 
 ```text
 ┌──────────────────────────────┐
@@ -99,11 +97,69 @@
 │                              │
 └──────────────────────────────┘
 ```
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚡ CURRENT MISSIONS</h3>
+
+```text
+┌──────────────────────────────┐
+│                              │
+│  [✓] Backend Systems         │
+│  [✓] AWS Infrastructure      │
+│  [→] Kubernetes              │
+│  [→] ML Observability        │
+│  [→] Open Source             │
+│                              │
+│  STATUS: BUILDING...         │
+│                              │
+└──────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3 align="center">🔮 CURRENTLY EXPLORING</h3>
+
+<p align="center">
+  <code>Distributed Systems</code> •
+  <code>Kubernetes</code> •
+  <code>Cloud Infrastructure</code> •
+  <code>ML Observability</code> •
+  <code>Open Source</code>
+</p>
+
 <br>
 
 <div align="center">
 
-# 🐍 CONTRIBUTION SNAKE
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│  zohra@github:~$ cat /etc/motivation                   │
+│                                                        │
+│  curiosity > comfort                                   │
+│  systems > scripts                                     │
+│  building > talking                                    │
+│                                                        │
+│  zohra@github:~$ _                                     │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+<h2>🐍 CONTRIBUTION SNAKE</h2>
 
 <img src="https://raw.githubusercontent.com/whyzohra/whyzohra/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
