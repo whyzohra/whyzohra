@@ -30,6 +30,10 @@
 
 <div align="center">
 
+<img src="./zohra-cyberpunk.png" width="100%"/>
+
+</div>
+
 <br>
 
 <div align="center">
