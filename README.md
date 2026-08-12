@@ -232,3 +232,138 @@
 </div>
 
 <br>
+<br>
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ Distributed Task Orchestrator
+
+Distributed task orchestration system for asynchronous workflows and containerized execution.
+
+`Python` `AsyncIO` `Docker` `REST`
+
+<a href="https://github.com/whyzohra/distributed-task-orchestrator">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ EventBridge Automation Pipeline
+
+Cloud-native event automation pipeline built around event-driven workflows and CI/CD.
+
+`Python` `AWS` `Kubernetes` `CI/CD`
+
+<a href="https://github.com/whyzohra/eventbridge-automation-pipeline">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 ML Observability Dashboard
+
+Cloud-native monitoring dashboard for ML workflows and infrastructure observability.
+
+`Python` `Kubernetes` `Monitoring`
+
+<a href="https://github.com/whyzohra/ml-observability-dashboard">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 MeetMind AI
+
+AI-powered meeting notes application built with a modern full-stack architecture.
+
+`Next.js` `TypeScript` `AI`
+
+<a href="https://github.com/whyzohra/meetmind-ai">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<br>
+
+<h2 align="center">📊 GITHUB COMMAND CENTER</h2>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=whyzohra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyzohra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=whyzohra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+</div>
+
+<br>
+
+<br>
+
+<h2 align="center">🧩 ENGINEERING PHILOSOPHY</h2>
+
+<br>
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   > DESIGN FOR FAILURE                                 │
+│   > AUTOMATE THE BORING                                │
+│   > OBSERVE EVERYTHING                                 │
+│   > SCALE WITH INTENTION                               │
+│   > SHIP. LEARN. ITERATE.                              │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br>
+
+<p align="center">
+  <strong>build.</strong>
+  &nbsp;•&nbsp;
+  <strong>break.</strong>
+  &nbsp;•&nbsp;
+  <strong>debug.</strong>
+  &nbsp;•&nbsp;
+  <strong>learn.</strong>
+  &nbsp;•&nbsp;
+  <strong>repeat.</strong>
+</p>
+
+<br>
