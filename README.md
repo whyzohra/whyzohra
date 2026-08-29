@@ -67,27 +67,6 @@
 
 <br>
 
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│  STACK STATUS                                          │
-│                                                        │
-│  Python          ████████████████████  ACTIVE         │
-│  Java            ████████████████████  ACTIVE         │
-│  AWS             ████████████████████  PRODUCTION     │
-│  Kubernetes      ███████████████░░░░░  EXPLORING      │
-│  Docker          ████████████████████  ACTIVE         │
-│  ML Systems      ███████████████░░░░░  BUILDING       │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
-
-</div>
-
-<br>
-
 <h2 align="center">🧩 ENGINEERING PHILOSOPHY</h2>
 
 <br>
