@@ -27,27 +27,6 @@ Based in Jeddah, Saudi Arabia · **Open to work**
 - 🎓 Executive Master's in Cybersecurity, King Abdulaziz University (2026 to present)
 - ☸️ Going deeper on Kubernetes and ML observability
 
-## Experience
-
-- **Amazon**: SDE Intern, Gurugram (Jul to Dec 2025). Serverless, event-driven backend services on AWS (Lambda, EventBridge, DynamoDB).
-- **90ways**: Software Development Engineer, Saudi Arabia (Feb to Jul 2026). Backend REST APIs and SQL optimisation for a CRM system.
-
-## Featured Projects
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-<!-- | [ATT&CK project name](https://github.com/whyzohra/REPO-NAME) | One line on what it detects/simulates/maps | Python · MITRE ATT&CK | -->
-| [Distributed Task Orchestrator](https://github.com/whyzohra/distributed-task-orchestrator) | Async task orchestration with containerized execution and a REST API | Python · AsyncIO · Docker |
-| [EventBridge Automation Pipeline](https://github.com/whyzohra/eventbridge-automation-pipeline) | Event-driven automation pipeline with CI/CD | Python · AWS · Kubernetes |
-| [ML Observability Dashboard](https://github.com/whyzohra/ml-observability-dashboard) | Monitoring for ML workflows and infrastructure | Python · Kubernetes |
-| [MeetMind AI](https://github.com/whyzohra/meetmind-ai) | AI meeting-notes summarizer | Next.js · TypeScript |
-| [Smart Expense Tracker API](https://github.com/whyzohra/smart-expense-tracker-api) | REST API for personal expense management | Java 21 · Spring Boot 3 |
-
-More case studies (cold-chain freshness engine, columnar storage prototype, Atlas) are on my [portfolio](https://zohra-portfolio.vercel.app/archive/).
-
-## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,python,ts,sql,spring,nodejs,postgres,aws,docker,kubernetes,linux,git" />
 
 ---
 
