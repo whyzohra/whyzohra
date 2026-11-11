@@ -23,7 +23,7 @@ Based in Jeddah, Saudi Arabia · **Open to work**
 
 ## Currently
 
-- 🔐 **Building a security project around MITRE ATT&CK** (repo coming soon)
+- 🔐 **Built a security project around MITRE ATT&CK** 
 - 🎓 Executive Master's in Cybersecurity, King Abdulaziz University (2026 to present)
 - ☸️ Going deeper on Kubernetes and ML observability
 
